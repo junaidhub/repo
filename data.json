@@ -1,9 +1,3 @@
 {
-    "name": "Example",
-    "value": 123,
-    "list": [
-        1,
-        2,
-        3
-    ]
+    "name": "Example"
 }
