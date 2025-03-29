@@ -1,1 +1,10 @@
-null
+{
+    "word": "hello",
+    "name": "Junaid",
+    "age": 25,
+    "skills": [
+        "Python",
+        "Electronics",
+        "Robotics"
+    ]
+}
